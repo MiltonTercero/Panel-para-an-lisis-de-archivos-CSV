@@ -80,6 +80,12 @@ python main.py
 
 ---
 
+## 🛠️ Uso
+
+Luego de clonar el repositorio puede usar el scrip ejecutable, se incluye un dataset "Simple_data" para hacer pruebas.
+
+---
+
 ## 📋 Requisitos
 
 - Python 3.10 o superior
