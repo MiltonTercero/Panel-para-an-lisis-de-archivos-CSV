@@ -109,18 +109,7 @@ eda-panel/
 
 ---
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría hacer.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
 
 <div align="center">
-Desarrollado con ❤️ por Milton
+Desarrollado con por Milton Tercero
 </div>
