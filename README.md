@@ -82,7 +82,7 @@ python main.py
 
 ## 🛠️ Uso
 
-Luego de clonar el repositorio puede usar el scrip ejecutable, se incluye un dataset "Simple_data" para hacer pruebas.
+Luego de clonar el repositorio puede usar el scrip ejecutable, se incluye un dataset "generate_sample_data" para hacer pruebas.
 
 ---
 
