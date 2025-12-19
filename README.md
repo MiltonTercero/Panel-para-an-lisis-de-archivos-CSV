@@ -69,28 +69,6 @@ python main.py
 
 ---
 
-## 📁 Estructura del Proyecto
-
-```
-eda-panel/
-├── main.py                    # Punto de entrada
-├── requirements.txt           # Dependencias
-├── run_eda_panel.sh          # Launcher Linux/Mac
-├── run_eda_panel.bat         # Launcher Windows
-├── core/
-│   ├── data_manager.py       # Carga y gestión de datos
-│   ├── statistics_engine.py  # Cálculos estadísticos
-│   └── visualization_generator.py  # Generación de gráficos
-├── gui/
-│   ├── app.py                # Aplicación principal
-│   ├── components/           # Componentes de UI
-│   └── dialogs/              # Diálogos personalizados
-└── utils/
-    ├── logger.py             # Sistema de logging
-    └── helpers.py            # Funciones auxiliares
-```
-
----
 
 ## 🛠️ Tecnologías Utilizadas
 
