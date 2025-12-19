@@ -1,0 +1,501 @@
+id_empleado,edad,genero,estado_civil,nivel_educacion,departamento,salario,horas_trabajadas,puntuacion,fecha_contratacion,activo
+EMP00001,105,M,Soltero,,Marketing,57704.0,44.0,16.75,2018-05-31,True
+EMP00002,33,M,Casado,Secundaria,TI,,28.0,10.46,2021-08-27,True
+EMP00003,42,F,Soltero,Doctorado,TI,18046.0,55.0,63.64,2021-08-21,True
+EMP00004,53,M,Casado,Maestría,TI,48121.0,37.0,70.65,2019-04-12,True
+EMP00005,32,F,Casado,Maestría,Recursos Humanos,,37.0,3.16,2019-06-20,True
+EMP00006,32,M,Casado,Doctorado,TI,28465.0,43.0,93.62,2022-11-30,True
+EMP00007,53,F,Casado,Secundaria,Recursos Humanos,27005.0,33.0,5.2,2023-11-30,True
+EMP00008,44,F,Divorciado,Universitario,TI,23576.0,43.0,54.13,2022-12-21,True
+EMP00009,29,M,Soltero,Secundaria,Ventas,37207.0,35.0,,2022-09-16,True
+EMP00010,41,M,Soltero,Universitario,Finanzas,119845.0,36.0,87.1,2018-08-08,False
+EMP00011,29,M,Divorciado,Universitario,TI,41573.0,42.0,71.41,2019-10-10,True
+EMP00012,29,M,Casado,Universitario,TI,35414.0,34.0,80.17,2020-10-30,True
+EMP00013,100,F,Divorciado,,Recursos Humanos,32225.0,42.0,33.95,2016-08-21,False
+EMP00014,18,F,Casado,Secundaria,TI,23068.0,43.0,81.48,2021-01-26,True
+EMP00015,18,F,Divorciado,Universitario,Ventas,27217.0,46.0,,2019-05-08,False
+EMP00016,28,F,Casado,Secundaria,TI,52981.0,41.0,89.48,2021-07-25,True
+EMP00017,22,M,Casado,Doctorado,Operaciones,46651.0,46.0,54.76,2025-10-31,True
+EMP00018,38,M,Divorciado,Maestría,Recursos Humanos,22275.0,32.0,81.73,2023-01-08,True
+EMP00019,24,F,Casado,Doctorado,Recursos Humanos,38164.0,51.0,45.23,2022-05-16,True
+EMP00020,18,M,Soltero,Universitario,Recursos Humanos,52875.0,38.0,,2021-06-13,True
+EMP00021,52,F,Soltero,Universitario,Ventas,15761.0,39.0,52.64,2016-11-25,True
+EMP00022,32,M,Soltero,Maestría,TI,47652.0,53.0,73.16,2019-12-30,True
+EMP00023,35,M,Soltero,Universitario,Finanzas,26073.0,31.0,8.16,2017-08-16,True
+EMP00024,18,Otro,Soltero,Universitario,Ventas,48305.0,49.0,6.04,2018-03-17,True
+EMP00025,28,M,Casado,Universitario,TI,24794.0,36.0,24.71,2022-09-16,True
+EMP00026,95,Otro,Casado,,TI,14728.0,51.0,15.95,2022-02-20,True
+EMP00027,21,Otro,Casado,Universitario,TI,16094.0,45.0,87.18,2019-05-04,True
+EMP00028,39,F,Casado,Universitario,Operaciones,37199.0,47.0,21.92,2020-12-16,False
+EMP00029,27,F,Soltero,Maestría,Ventas,,46.0,97.59,2016-03-31,True
+EMP00030,31,F,Soltero,Secundaria,Marketing,23105.0,33.0,,2024-08-27,False
+EMP00031,27,F,Soltero,Universitario,Ventas,49975.0,25.0,18.21,2023-09-09,True
+EMP00032,57,M,Casado,Maestría,Operaciones,15823.0,32.0,78.97,2018-07-31,True
+EMP00033,34,M,Soltero,Secundaria,Ventas,35135.0,47.0,65.87,2021-07-18,True
+EMP00034,22,F,Soltero,Universitario,TI,19820.0,40.0,,2024-02-06,True
+EMP00035,44,M,Casado,Maestría,Recursos Humanos,26214.0,45.0,55.54,2018-06-23,True
+EMP00036,20,M,Divorciado,Universitario,Recursos Humanos,37186.0,42.0,71.92,2022-05-05,True
+EMP00037,37,M,Soltero,Secundaria,TI,23618.0,36.0,22.85,2025-09-28,True
+EMP00038,18,F,Casado,Universitario,TI,29963.0,43.0,99.63,2025-09-23,True
+EMP00039,19,F,Casado,Universitario,TI,60062.0,33.0,97.48,2019-09-29,True
+EMP00040,37,M,Casado,Universitario,TI,27215.0,30.0,,2020-04-25,True
+EMP00041,43,F,Divorciado,Maestría,Ventas,55151.0,46.0,19.95,2023-09-19,True
+EMP00042,37,F,Soltero,Secundaria,Marketing,20643.0,41.0,,2016-07-29,True
+EMP00043,33,F,Soltero,Universitario,TI,47330.0,42.0,7.22,2025-07-09,True
+EMP00044,31,F,Divorciado,Universitario,TI,74666.0,37.0,125.50498500809837,2018-12-14,True
+EMP00045,18,F,Casado,Secundaria,Recursos Humanos,10553.0,41.0,25.77,2019-05-27,True
+EMP00046,26,M,Casado,Maestría,Operaciones,24380.0,45.0,46.26,2020-09-03,True
+EMP00047,29,F,Casado,Universitario,Recursos Humanos,48462.0,45.0,86.83,2018-06-30,True
+EMP00048,47,M,Casado,Universitario,Ventas,32809.0,56.0,72.72,2016-04-14,True
+EMP00049,39,F,Divorciado,Secundaria,Ventas,43720.0,37.0,74.27,2020-11-24,True
+EMP00050,18,Otro,Viudo,Universitario,Operaciones,26849.0,36.0,42.55,2020-11-14,True
+EMP00051,38,M,Casado,Universitario,TI,37922.0,39.0,34.59,2016-07-12,False
+EMP00052,30,M,Soltero,Maestría,Ventas,33595.0,49.0,37.1,2022-11-29,False
+EMP00053,26,F,Divorciado,Secundaria,Marketing,65113.0,38.0,98.76,2019-11-12,True
+EMP00054,42,M,Soltero,Universitario,Recursos Humanos,41241.0,44.0,4.01,2018-04-29,True
+EMP00055,47,F,Soltero,Universitario,Recursos Humanos,42993.0,42.0,86.7,2016-09-24,True
+EMP00056,46,M,Divorciado,Maestría,TI,29556.0,46.0,57.87,2018-07-21,True
+EMP00057,24,M,Soltero,Universitario,Ventas,28458.0,42.0,43.86,2017-01-14,True
+EMP00058,31,Otro,Soltero,Maestría,Operaciones,29252.0,43.0,72.53,2020-10-23,True
+EMP00059,38,F,Soltero,Maestría,TI,44232.0,41.0,48.67,2016-09-11,False
+EMP00060,46,F,Divorciado,Maestría,Recursos Humanos,29422.0,41.0,87.34,2019-01-04,True
+EMP00061,29,M,Casado,Universitario,Recursos Humanos,41977.0,43.0,90.07,2023-06-10,True
+EMP00062,32,F,Casado,Universitario,Recursos Humanos,102508.0,35.0,42.17,2020-01-04,True
+EMP00063,21,F,Soltero,Maestría,,56137.0,40.0,27.68,2016-02-19,True
+EMP00064,20,F,Casado,Doctorado,TI,30852.0,27.0,59.24,2021-12-30,True
+EMP00065,44,F,Casado,Maestría,Marketing,66211.0,46.0,91.24,2021-08-19,False
+EMP00066,51,F,Soltero,Universitario,Finanzas,29612.0,46.0,21.07,2024-06-02,True
+EMP00067,34,M,Casado,Universitario,Operaciones,13107.0,39.0,62.3,2017-01-16,True
+EMP00068,95,M,Soltero,Universitario,Ventas,21937.0,37.0,63.16,2018-11-08,True
+EMP00069,39,F,Viudo,Maestría,Ventas,14251.0,30.0,73.31,2019-02-13,True
+EMP00070,27,M,Casado,Universitario,Operaciones,30462.0,42.0,13.16,2024-09-04,True
+EMP00071,39,F,Divorciado,Universitario,Recursos Humanos,36651.0,43.0,71.58,2023-04-06,True
+EMP00072,53,M,Soltero,Maestría,Finanzas,83970.0,43.0,90.9,2018-05-04,True
+EMP00073,34,F,Casado,Universitario,Ventas,42764.0,31.0,17.97,2016-01-04,True
+EMP00074,53,F,Casado,Maestría,Marketing,32547.0,47.0,23.75,2020-09-01,True
+EMP00075,18,M,Casado,Universitario,Recursos Humanos,54978.0,41.0,97.14,2025-05-09,True
+EMP00076,44,M,Viudo,Universitario,Recursos Humanos,12021.0,33.0,18.1,2019-12-09,True
+EMP00077,36,M,Casado,Universitario,TI,40855.0,37.0,,2018-10-29,True
+EMP00078,31,F,Soltero,Maestría,Ventas,53392.0,35.0,49.23,2025-01-02,True
+EMP00079,36,F,Casado,Secundaria,Marketing,17338.0,35.0,24.72,2017-02-25,True
+EMP00080,18,M,Casado,Universitario,TI,64336.0,48.0,87.07,2020-09-07,True
+EMP00081,32,F,Casado,Doctorado,Marketing,43012.0,33.0,44.53,2015-12-24,True
+EMP00082,39,M,Soltero,Universitario,Operaciones,29506.0,39.0,51.48,2025-01-04,True
+EMP00083,52,M,Casado,Universitario,TI,49830.0,32.0,35.92,2025-06-20,True
+EMP00084,28,F,Soltero,Universitario,Finanzas,113022.0,44.0,59.3,2024-03-22,True
+EMP00085,25,M,Casado,Universitario,Ventas,39772.0,39.0,16.35,2023-03-07,True
+EMP00086,28,M,Casado,Maestría,Recursos Humanos,41114.0,45.0,39.11,2019-11-14,True
+EMP00087,45,M,Casado,Universitario,Operaciones,28863.0,42.0,96.94,2017-06-13,True
+EMP00088,38,M,Soltero,Universitario,Ventas,23743.0,45.0,25.81,2023-11-08,True
+EMP00089,28,M,Casado,Universitario,Ventas,55004.0,55.0,65.67,2017-11-29,True
+EMP00090,41,M,Soltero,Maestría,TI,23669.0,27.0,32.52,2017-07-19,True
+EMP00091,36,F,Soltero,Secundaria,Ventas,37638.0,35.0,77.35,2023-03-09,True
+EMP00092,46,M,Casado,Universitario,Recursos Humanos,28600.0,50.0,13.09,2020-03-08,True
+EMP00093,26,F,Divorciado,Universitario,Operaciones,46142.0,35.0,,2025-11-20,True
+EMP00094,31,M,Casado,Universitario,TI,42908.0,,45.38,2019-05-05,True
+EMP00095,30,M,Casado,Universitario,TI,61008.0,28.0,23.61,2016-02-15,True
+EMP00096,18,F,Divorciado,Universitario,TI,28141.0,22.0,,2020-02-04,True
+EMP00097,38,Otro,Divorciado,Maestría,Recursos Humanos,31731.0,50.0,16.98,2020-10-12,True
+EMP00098,38,M,Soltero,Universitario,Ventas,22261.0,41.0,,2021-12-14,True
+EMP00099,35,F,Viudo,Doctorado,Marketing,29081.0,37.0,33.7,2022-08-10,True
+EMP00100,32,F,Casado,Doctorado,Recursos Humanos,43855.0,52.0,82.89,2016-06-06,False
+EMP00101,18,F,Soltero,Universitario,Recursos Humanos,53023.0,38.0,43.09,2017-08-22,False
+EMP00102,29,F,Soltero,Secundaria,Ventas,22900.0,35.0,24.87,2020-04-20,False
+EMP00103,30,M,Casado,Universitario,Recursos Humanos,56095.0,34.0,61.71,2016-01-18,True
+EMP00104,25,M,Soltero,Maestría,Ventas,71526.0,42.0,70.68,2018-05-07,True
+EMP00105,33,F,Soltero,Universitario,Ventas,44654.0,31.0,16.7,2022-11-19,True
+EMP00106,39,M,Soltero,Secundaria,Finanzas,92818.0,34.0,16.76,2017-06-06,True
+EMP00107,57,F,Divorciado,Universitario,Recursos Humanos,24664.0,48.0,3.67,2025-10-14,True
+EMP00108,37,M,Divorciado,Maestría,Ventas,19490.0,40.0,73.64,2018-09-16,True
+EMP00109,38,M,Soltero,Maestría,Ventas,14922.0,48.0,66.38,2017-02-08,True
+EMP00110,34,F,Divorciado,Universitario,Ventas,76728.0,28.0,47.46,2022-11-10,True
+EMP00111,18,M,Divorciado,Maestría,TI,50371.0,41.0,84.42,2025-01-15,True
+EMP00112,34,F,Casado,Universitario,Ventas,35320.0,39.0,80.57,2020-01-09,False
+EMP00113,35,F,Soltero,Universitario,Ventas,41772.0,,58.54,2021-03-26,True
+EMP00114,64,F,Casado,,Marketing,20686.0,39.0,86.83,2024-09-28,True
+EMP00115,32,F,Divorciado,Universitario,Recursos Humanos,123361.0,43.0,20.58,2018-09-08,False
+EMP00116,38,F,Casado,Universitario,Recursos Humanos,38739.0,27.0,,2016-10-04,True
+EMP00117,34,F,Soltero,Secundaria,Recursos Humanos,38357.0,46.0,26.97,2018-07-10,True
+EMP00118,20,F,Casado,Maestría,Ventas,261010.0,34.0,5.71,2016-06-05,True
+EMP00119,48,M,Casado,Maestría,Operaciones,46189.0,33.0,53.12,2018-09-04,True
+EMP00120,44,M,Casado,Maestría,Finanzas,40617.0,45.0,93.66,2017-11-26,False
+EMP00121,44,M,Soltero,Maestría,Finanzas,,34.0,3.93,2025-03-13,True
+EMP00122,24,M,Soltero,Universitario,Finanzas,45969.0,35.0,12.21,2017-06-09,True
+EMP00123,51,F,Divorciado,Universitario,Operaciones,,39.0,45.22,2016-03-23,True
+EMP00124,18,F,Divorciado,Universitario,Marketing,71161.0,41.0,93.39,2024-05-02,True
+EMP00125,42,F,Soltero,Secundaria,Ventas,402730.0,31.0,31.62,2020-07-11,False
+EMP00126,61,M,Viudo,,,28124.0,47.0,50.72,2018-06-08,True
+EMP00127,23,F,Soltero,Doctorado,Recursos Humanos,,34.0,4.16,2023-01-09,True
+EMP00128,28,M,Casado,Secundaria,Recursos Humanos,34101.0,36.0,14.83,2025-05-23,True
+EMP00129,36,F,Casado,Universitario,Marketing,37341.0,41.0,98.66,2025-08-15,True
+EMP00130,28,F,Divorciado,Universitario,Ventas,62761.0,46.0,96.51,2024-08-14,False
+EMP00131,18,M,Divorciado,Universitario,TI,15580.0,50.0,0.49,2016-02-29,True
+EMP00132,35,M,Soltero,Doctorado,Operaciones,390120.0,33.0,95.18,2017-09-24,True
+EMP00133,22,M,Divorciado,Universitario,Marketing,33556.0,46.0,,2023-04-24,True
+EMP00134,40,F,Soltero,Universitario,Marketing,29335.0,32.0,86.79,2024-05-17,True
+EMP00135,23,F,Casado,Maestría,TI,21893.0,43.0,45.47,2018-03-26,True
+EMP00136,53,F,Casado,Universitario,TI,15876.0,39.0,51.56,2019-08-27,False
+EMP00137,25,M,Casado,Universitario,Finanzas,54807.0,46.0,48.88,2022-08-25,True
+EMP00138,31,M,Soltero,Universitario,Recursos Humanos,37671.0,58.0,66.69,2025-05-03,False
+EMP00139,44,F,Divorciado,Universitario,Finanzas,19053.0,42.0,13.97,2025-06-13,True
+EMP00140,20,F,Soltero,Doctorado,Marketing,19005.0,49.0,3.0,2016-06-02,True
+EMP00141,37,M,Soltero,Maestría,Recursos Humanos,30702.0,33.0,30.79,2020-05-01,True
+EMP00142,50,M,Casado,Universitario,Ventas,83659.0,41.0,70.47,2017-03-30,True
+EMP00143,18,F,Casado,Maestría,Recursos Humanos,31894.0,29.0,20.19,2017-05-07,False
+EMP00144,95,M,Divorciado,,TI,17127.0,,67.34,2018-07-05,True
+EMP00145,38,M,Casado,Secundaria,TI,32116.0,44.0,96.99,2024-08-04,True
+EMP00146,44,M,Soltero,Universitario,Recursos Humanos,31686.0,39.0,9.39,2020-02-16,True
+EMP00147,20,F,Divorciado,Universitario,Operaciones,9429.0,39.0,67.26,2025-10-31,True
+EMP00148,19,F,Casado,Universitario,Ventas,35342.0,40.0,44.38,2016-03-14,True
+EMP00149,41,F,Soltero,Maestría,Finanzas,32355.0,37.0,86.81,2018-01-24,True
+EMP00150,38,F,Casado,Doctorado,TI,51436.0,44.0,17.71,2017-08-07,True
+EMP00151,38,F,Casado,Universitario,TI,91535.0,30.0,69.26,2024-01-30,True
+EMP00152,39,M,Casado,Universitario,Ventas,63785.0,,83.81,2024-11-27,True
+EMP00153,26,F,Casado,Secundaria,TI,31747.0,39.0,94.46,2023-04-24,True
+EMP00154,37,M,Divorciado,Secundaria,Marketing,20883.0,43.0,68.32,2016-06-28,True
+EMP00155,38,F,Divorciado,Universitario,Ventas,131489.0,37.0,49.72,2023-03-19,True
+EMP00156,26,M,Casado,Universitario,Marketing,37406.0,42.0,61.78,2019-10-06,False
+EMP00157,57,M,Soltero,Maestría,Operaciones,36569.0,43.0,86.89,2021-03-30,True
+EMP00158,40,M,Divorciado,Universitario,Ventas,35880.0,44.0,57.06,2020-06-23,True
+EMP00159,20,M,Casado,Secundaria,Finanzas,40096.0,33.0,3.04,2017-08-10,True
+EMP00160,42,M,Casado,Universitario,TI,33786.0,,93.09,2016-08-10,True
+EMP00161,23,M,Casado,Universitario,Recursos Humanos,27259.0,36.0,68.95,2016-12-04,True
+EMP00162,44,Otro,Divorciado,Secundaria,TI,27627.0,44.0,67.65,2019-08-30,True
+EMP00163,48,M,Casado,Maestría,Ventas,35725.0,36.0,,2019-09-18,True
+EMP00164,25,F,Soltero,Secundaria,Ventas,138375.0,48.0,65.89,2017-06-26,True
+EMP00165,46,F,Casado,Maestría,Ventas,25427.0,46.0,39.39,2021-07-25,True
+EMP00166,39,Otro,Divorciado,Universitario,Ventas,38300.0,43.0,65.12,2016-11-03,True
+EMP00167,44,F,Soltero,Universitario,Recursos Humanos,31968.0,,10.66,2021-01-24,False
+EMP00168,57,F,Viudo,Universitario,Finanzas,77033.0,39.0,65.78,2025-03-23,True
+EMP00169,105,M,Casado,,Finanzas,9648.0,41.0,99.94,2025-08-18,True
+EMP00170,25,M,Casado,Universitario,Recursos Humanos,62677.0,38.0,4.82,2018-07-25,False
+EMP00171,24,M,Soltero,Maestría,Ventas,67713.0,36.0,97.72,2022-06-17,True
+EMP00172,25,F,Soltero,Secundaria,TI,12878.0,36.0,40.69,2022-01-04,True
+EMP00173,34,F,Divorciado,Maestría,TI,30596.0,45.0,87.08,2025-04-04,True
+EMP00174,39,M,Soltero,Universitario,,30160.0,,78.24,2023-05-16,False
+EMP00175,38,M,Casado,Maestría,Marketing,17966.0,47.0,56.7,2020-03-25,True
+EMP00176,44,F,Casado,Universitario,Marketing,24614.0,48.0,73.84,2023-08-09,False
+EMP00177,35,M,Soltero,Doctorado,TI,20841.0,44.0,87.85,2024-07-12,True
+EMP00178,52,F,Soltero,Universitario,TI,87215.0,30.0,40.41,2023-07-15,True
+EMP00179,31,F,Casado,Secundaria,Finanzas,57979.0,36.0,,2025-05-25,False
+EMP00180,67,F,Viudo,,Finanzas,68581.0,36.0,66.76,2016-09-14,True
+EMP00181,42,F,Casado,Maestría,TI,52095.0,45.0,80.78,2018-04-25,True
+EMP00182,24,F,Casado,Universitario,Operaciones,20650.0,43.0,76.23,2025-07-23,True
+EMP00183,22,F,Soltero,Maestría,Operaciones,27937.0,49.0,79.78,2024-10-07,True
+EMP00184,40,F,Casado,Universitario,TI,46382.0,29.0,43.56,2019-12-08,False
+EMP00185,32,F,Casado,Universitario,TI,19711.0,46.0,,2017-04-23,True
+EMP00186,43,M,Divorciado,Secundaria,Marketing,51870.0,48.0,12.02,2021-04-02,True
+EMP00187,40,M,Casado,Doctorado,Operaciones,32203.0,28.0,54.45,2024-12-26,True
+EMP00188,34,M,Casado,Maestría,Finanzas,,42.0,0.58,2017-01-29,True
+EMP00189,24,M,Soltero,Doctorado,Ventas,51817.0,43.0,32.46,2022-07-27,True
+EMP00190,18,F,Viudo,Universitario,TI,45348.0,49.0,36.65,2020-09-05,True
+EMP00191,29,F,Soltero,Maestría,Marketing,30318.0,40.0,,2024-09-19,True
+EMP00192,45,M,Soltero,Maestría,Marketing,64839.0,36.0,69.55,2018-03-27,False
+EMP00193,37,M,Casado,Universitario,Ventas,21151.0,45.0,38.86,2021-06-30,True
+EMP00194,20,Otro,Casado,Maestría,,49412.0,49.0,,2024-03-30,True
+EMP00195,37,M,Casado,Doctorado,Recursos Humanos,48852.0,42.0,23.75,2017-01-04,False
+EMP00196,39,M,Casado,Maestría,Finanzas,31108.0,42.0,37.33,2018-01-30,True
+EMP00197,24,F,Casado,Maestría,Finanzas,,35.0,22.73,2024-08-20,True
+EMP00198,36,F,Soltero,Universitario,Recursos Humanos,19427.0,30.0,7.32,2018-11-25,True
+EMP00199,35,M,Divorciado,Universitario,TI,57642.0,40.0,60.34,2025-06-02,False
+EMP00200,21,M,Casado,Doctorado,Recursos Humanos,33108.0,54.0,66.82,2024-12-13,True
+EMP00201,39,M,Casado,Secundaria,Ventas,139815.0,45.0,61.95,2023-03-11,False
+EMP00202,41,F,Casado,Maestría,Recursos Humanos,61359.0,42.0,46.35,2020-07-15,True
+EMP00203,47,F,Soltero,Maestría,Ventas,25535.0,35.0,37.98,2018-01-09,True
+EMP00204,47,M,Casado,Maestría,Recursos Humanos,,39.0,86.33,2021-12-08,True
+EMP00205,18,F,Casado,Doctorado,Ventas,16675.0,32.0,51.91,2025-04-15,True
+EMP00206,23,F,Soltero,Universitario,Ventas,49168.0,40.0,47.92,2023-10-23,True
+EMP00207,41,M,Casado,Universitario,Ventas,19144.0,42.0,2.56,2019-08-21,True
+EMP00208,41,F,Viudo,Secundaria,Ventas,87325.0,34.0,34.12,2017-05-25,True
+EMP00209,41,F,Casado,Universitario,Recursos Humanos,12823.0,34.0,38.02,2016-09-23,True
+EMP00210,80,M,Divorciado,,Recursos Humanos,84815.0,31.0,39.88,2020-04-10,True
+EMP00211,41,M,Soltero,Universitario,Marketing,40356.0,46.0,58.02,2021-10-19,True
+EMP00212,48,F,Soltero,Maestría,Ventas,34601.0,40.0,125.61151634652546,2022-06-25,True
+EMP00213,46,F,Soltero,Doctorado,Ventas,27654.0,52.0,60.79,2024-04-23,True
+EMP00214,42,F,Casado,Universitario,Ventas,44336.0,30.0,76.49,2016-10-24,True
+EMP00215,31,F,Soltero,Universitario,Ventas,35638.0,31.0,81.3,2021-05-04,True
+EMP00216,44,F,Soltero,Doctorado,Finanzas,63047.0,40.0,71.81,2022-01-31,True
+EMP00217,25,M,Divorciado,Secundaria,Ventas,38449.0,40.0,95.55,2020-12-24,True
+EMP00218,32,F,Divorciado,Secundaria,TI,39149.0,36.0,1.82,2024-08-04,False
+EMP00219,29,M,Casado,Universitario,Ventas,30278.0,38.0,19.58,2017-04-29,True
+EMP00220,35,M,Soltero,Universitario,Ventas,35296.0,50.0,0.76,2016-07-22,True
+EMP00221,62,F,Soltero,,Marketing,42357.0,42.0,64.75,2017-12-07,True
+EMP00222,18,F,Soltero,Doctorado,,15443.0,47.0,89.8,2024-06-18,True
+EMP00223,43,M,Casado,Universitario,Ventas,18507.0,43.0,24.35,2022-03-24,True
+EMP00224,18,F,Divorciado,Universitario,Ventas,52661.0,35.0,,2023-09-02,True
+EMP00225,29,M,Casado,Universitario,TI,39554.0,42.0,6.03,2022-01-18,True
+EMP00226,48,M,Soltero,Universitario,Ventas,33123.0,31.0,93.44,2021-12-31,True
+EMP00227,35,M,Casado,Maestría,Ventas,36651.0,39.0,35.16,2017-04-20,True
+EMP00228,22,F,Soltero,Maestría,Operaciones,43208.0,31.0,10.14,2023-08-24,True
+EMP00229,26,F,Casado,Maestría,Recursos Humanos,27725.0,45.0,,2024-04-14,True
+EMP00230,43,M,Casado,Universitario,Marketing,24608.0,29.0,25.68,2024-11-02,True
+EMP00231,26,F,Casado,Doctorado,TI,40051.0,53.0,28.49,2019-03-06,False
+EMP00232,37,M,Soltero,Maestría,,22265.0,43.0,30.73,2024-02-10,True
+EMP00233,35,F,Soltero,Maestría,Marketing,,42.0,80.3,2025-07-13,True
+EMP00234,27,M,Viudo,Secundaria,Recursos Humanos,15501.0,42.0,53.92,2020-04-27,False
+EMP00235,60,M,Soltero,Secundaria,Recursos Humanos,60753.0,44.0,31.13,2024-12-11,True
+EMP00236,42,F,Soltero,Universitario,Ventas,45995.0,50.0,61.03,2019-09-29,True
+EMP00237,18,M,Soltero,Maestría,Marketing,41275.0,41.0,71.62,2016-03-04,True
+EMP00238,37,M,Soltero,Universitario,TI,,36.0,27.26,2022-12-18,False
+EMP00239,27,F,Casado,Universitario,Finanzas,83511.0,41.0,41.35,2016-11-15,True
+EMP00240,45,Otro,Divorciado,Maestría,Recursos Humanos,60305.0,31.0,12.19,2018-12-17,True
+EMP00241,25,M,Soltero,Maestría,Marketing,14466.0,37.0,18.11,2024-04-25,True
+EMP00242,33,M,Casado,Doctorado,Ventas,19152.0,43.0,68.11,2025-05-17,False
+EMP00243,41,M,Casado,Universitario,,,44.0,18.14,2020-07-01,True
+EMP00244,100,F,Casado,,Ventas,36792.0,43.0,52.52,2021-09-06,True
+EMP00245,20,M,Divorciado,Universitario,TI,47043.0,36.0,70.9,2020-12-04,False
+EMP00246,30,F,Divorciado,Universitario,Ventas,25263.0,39.0,10.69,2020-08-04,True
+EMP00247,29,Otro,Soltero,Universitario,Recursos Humanos,39870.0,51.0,56.73,2017-08-27,True
+EMP00248,27,M,Casado,Universitario,Ventas,124460.0,36.0,25.66,2016-12-14,True
+EMP00249,56,M,Casado,Universitario,TI,26748.0,37.0,96.29,2018-01-22,True
+EMP00250,39,M,Viudo,Maestría,Finanzas,17973.0,44.0,48.35,2023-12-23,False
+EMP00251,19,M,Casado,Secundaria,Ventas,22888.0,38.0,80.6,2022-07-23,True
+EMP00252,46,F,Viudo,Maestría,Marketing,18474.0,39.0,55.02,2016-06-28,True
+EMP00253,60,M,Casado,Universitario,TI,22293.0,49.0,4.34,2018-11-04,True
+EMP00254,47,M,Soltero,Universitario,Ventas,307505.0,32.0,63.32,2023-01-18,True
+EMP00255,18,F,Casado,Universitario,Finanzas,22590.0,43.0,95.14,2024-02-12,False
+EMP00256,29,M,Viudo,Universitario,Ventas,135427.0,,60.16,2017-12-20,True
+EMP00257,50,F,Divorciado,Universitario,Marketing,46474.0,38.0,81.92,2025-03-11,True
+EMP00258,26,M,Soltero,Universitario,Marketing,39831.0,43.0,88.42,2023-01-02,True
+EMP00259,40,F,Casado,Universitario,Recursos Humanos,118210.0,37.0,22.81,2018-01-28,False
+EMP00260,44,F,Soltero,Secundaria,Recursos Humanos,51542.0,44.0,21.2,2018-11-21,True
+EMP00261,23,F,Soltero,Universitario,TI,27232.0,40.0,61.1,2017-05-10,True
+EMP00262,34,F,Casado,Doctorado,Ventas,38599.0,38.0,41.1,2020-09-27,True
+EMP00263,18,M,Soltero,Universitario,Recursos Humanos,,33.0,83.99,2017-10-31,True
+EMP00264,22,M,Divorciado,Maestría,Marketing,34612.0,45.0,90.0,2022-10-23,True
+EMP00265,31,F,Soltero,Maestría,Finanzas,64513.0,,35.34,2018-01-20,True
+EMP00266,20,F,Divorciado,Doctorado,Finanzas,25550.0,36.0,23.69,2016-05-22,True
+EMP00267,54,M,Soltero,Maestría,Finanzas,35685.0,42.0,78.05,2023-05-16,True
+EMP00268,18,M,Soltero,Universitario,Marketing,88027.0,56.0,27.48,2024-02-23,True
+EMP00269,29,M,Soltero,Maestría,TI,,38.0,82.26,2021-04-06,False
+EMP00270,36,M,Soltero,Maestría,Finanzas,89879.0,41.0,42.37,2022-10-27,True
+EMP00271,52,M,Soltero,Universitario,Marketing,51734.0,41.0,66.75,2025-10-13,False
+EMP00272,18,F,Soltero,Universitario,Ventas,27412.0,45.0,9.55,2020-05-05,True
+EMP00273,48,M,Casado,Secundaria,Finanzas,49821.0,39.0,62.39,2024-03-22,True
+EMP00274,35,M,Soltero,Maestría,Finanzas,59058.0,35.0,45.18,2025-02-08,False
+EMP00275,23,F,Casado,Maestría,Marketing,49558.0,27.0,58.66,2016-08-30,True
+EMP00276,40,F,Casado,Secundaria,Ventas,16562.0,41.0,16.8,2024-06-02,True
+EMP00277,37,F,Divorciado,Universitario,TI,25246.0,41.0,73.69,2021-07-31,False
+EMP00278,27,F,Divorciado,Universitario,Finanzas,32088.0,39.0,,2023-09-15,True
+EMP00279,35,M,Casado,Secundaria,Operaciones,34988.0,40.0,21.67,2018-12-22,True
+EMP00280,30,F,Soltero,Doctorado,Ventas,49530.0,42.0,9.57,2022-12-09,True
+EMP00281,36,F,Soltero,Universitario,Ventas,39689.0,42.0,2.36,2023-02-27,True
+EMP00282,42,M,Viudo,Secundaria,Finanzas,18626.0,38.0,64.2,2019-10-20,True
+EMP00283,54,F,Soltero,Universitario,TI,43918.0,39.0,60.71,2024-02-26,True
+EMP00284,20,F,Soltero,Maestría,Marketing,49280.0,50.0,54.67,2023-10-06,True
+EMP00285,60,M,Soltero,Secundaria,Operaciones,48045.0,41.0,23.19,2019-04-03,True
+EMP00286,18,M,Soltero,Maestría,Ventas,62341.0,32.0,39.09,2017-04-10,True
+EMP00287,33,M,Soltero,Universitario,Recursos Humanos,55103.0,36.0,59.45,2024-07-01,True
+EMP00288,42,M,Casado,Secundaria,Ventas,45687.0,53.0,49.68,2022-02-26,True
+EMP00289,38,M,Soltero,Universitario,TI,35063.0,40.0,98.78,2022-08-01,True
+EMP00290,27,F,Casado,Universitario,Finanzas,15827.0,42.0,13.64,2018-10-12,True
+EMP00291,32,M,Soltero,Universitario,TI,45017.0,36.0,69.51,2016-12-25,True
+EMP00292,29,F,Soltero,Doctorado,Operaciones,40289.0,45.0,40.43,2018-04-09,True
+EMP00293,27,F,Divorciado,Maestría,Marketing,41597.0,40.0,42.82,2020-09-15,True
+EMP00294,45,F,Soltero,Doctorado,TI,19180.0,41.0,71.76,2020-01-15,False
+EMP00295,39,F,Divorciado,Universitario,Ventas,21151.0,47.0,69.24,2024-03-31,True
+EMP00296,26,M,Casado,Doctorado,TI,61486.0,41.0,99.13,2023-12-01,True
+EMP00297,45,M,Soltero,Universitario,TI,35604.0,34.0,12.84,2016-03-31,True
+EMP00298,38,F,Viudo,Universitario,Ventas,51059.0,48.0,10.41,2025-09-05,True
+EMP00299,44,F,Soltero,Secundaria,TI,36833.0,39.0,72.43,2019-01-02,False
+EMP00300,42,F,Divorciado,Secundaria,Marketing,36859.0,42.0,,2025-11-03,False
+EMP00301,25,M,Soltero,Maestría,Recursos Humanos,58054.0,44.0,27.42,2018-02-08,True
+EMP00302,28,F,Divorciado,Universitario,Recursos Humanos,28056.0,44.0,7.94,2022-04-04,True
+EMP00303,43,M,Soltero,Universitario,Recursos Humanos,38103.0,36.0,8.57,2022-07-28,False
+EMP00304,42,F,Casado,Maestría,Ventas,28821.0,46.0,89.42,2023-04-12,False
+EMP00305,34,Otro,Casado,Universitario,Ventas,29224.0,43.0,19.19,2023-05-04,True
+EMP00306,36,M,Divorciado,Universitario,Recursos Humanos,31114.0,36.0,32.34,2021-10-25,True
+EMP00307,50,F,Divorciado,Universitario,Marketing,40581.0,45.0,22.67,2020-12-08,True
+EMP00308,27,M,Divorciado,Maestría,Ventas,28584.0,45.0,35.5,2018-01-17,False
+EMP00309,41,M,Divorciado,Maestría,Finanzas,68041.0,43.0,6.94,2019-02-17,True
+EMP00310,32,F,Soltero,Universitario,Finanzas,23218.0,47.0,,2018-11-22,True
+EMP00311,32,F,Soltero,Universitario,Marketing,33076.0,30.0,6.76,2018-12-17,True
+EMP00312,48,F,Soltero,Universitario,Ventas,,29.0,80.04,2021-11-28,True
+EMP00313,44,F,Casado,Maestría,Finanzas,74868.0,38.0,23.37,2016-01-22,True
+EMP00314,44,F,Casado,Universitario,Marketing,40065.0,37.0,54.0,2021-09-11,False
+EMP00315,50,F,Casado,Universitario,Finanzas,60835.0,40.0,88.01,2018-11-18,True
+EMP00316,35,F,Soltero,Secundaria,Finanzas,17278.0,29.0,65.09,2021-11-02,True
+EMP00317,43,M,Casado,Universitario,Finanzas,41503.0,46.0,53.3,2020-04-25,True
+EMP00318,31,Otro,Soltero,Universitario,Marketing,56659.0,26.0,32.43,2015-12-29,True
+EMP00319,38,M,Soltero,Maestría,Ventas,37840.0,38.0,33.3,2020-06-27,True
+EMP00320,33,F,Casado,Universitario,Recursos Humanos,61866.0,35.0,66.95,2019-09-11,True
+EMP00321,36,M,Casado,Universitario,Recursos Humanos,28039.0,38.0,99.41,2020-07-24,True
+EMP00322,42,M,Casado,Maestría,Recursos Humanos,73473.0,37.0,66.18,2016-12-27,True
+EMP00323,25,M,Casado,Maestría,Ventas,114628.0,34.0,55.78,2023-06-21,True
+EMP00324,60,F,Soltero,Universitario,,30290.0,37.0,73.07,2022-06-03,True
+EMP00325,22,M,Casado,Universitario,Finanzas,29063.0,40.0,46.52,2018-04-11,False
+EMP00326,20,M,Soltero,Universitario,Recursos Humanos,75108.0,42.0,6.01,2021-01-11,False
+EMP00327,48,F,Casado,Doctorado,Operaciones,80000.0,28.0,56.23,2018-06-06,True
+EMP00328,44,F,Casado,Secundaria,Finanzas,27961.0,35.0,95.76,2021-03-01,True
+EMP00329,42,M,Soltero,Doctorado,Marketing,29434.0,41.0,17.53,2025-08-26,False
+EMP00330,42,M,Soltero,Maestría,Recursos Humanos,31543.0,32.0,69.0,2021-07-29,True
+EMP00331,34,M,Viudo,Universitario,Finanzas,18541.0,35.0,20.09,2022-05-06,True
+EMP00332,24,M,Viudo,Secundaria,Marketing,22940.0,36.0,,2020-11-14,False
+EMP00333,35,F,Casado,Universitario,Recursos Humanos,21980.0,42.0,9.67,2016-03-26,True
+EMP00334,26,F,Soltero,Universitario,Ventas,24738.0,45.0,45.04,2019-04-10,True
+EMP00335,46,F,Soltero,Universitario,Marketing,35691.0,25.0,75.62,2019-04-13,False
+EMP00336,33,M,Casado,Maestría,Recursos Humanos,40827.0,44.0,34.76,2022-12-16,True
+EMP00337,25,F,Divorciado,Doctorado,TI,78845.0,47.0,66.49,2023-04-16,True
+EMP00338,31,F,Soltero,Universitario,Ventas,22044.0,35.0,,2021-11-04,True
+EMP00339,39,F,Casado,Maestría,TI,59406.0,36.0,92.72,2022-11-18,True
+EMP00340,28,F,Soltero,Secundaria,Ventas,32630.0,37.0,23.46,2025-02-25,True
+EMP00341,25,F,Viudo,Universitario,Ventas,35428.0,47.0,39.93,2017-08-13,True
+EMP00342,37,F,Casado,Secundaria,TI,50889.0,39.0,15.24,2019-11-15,False
+EMP00343,37,M,Casado,Maestría,Operaciones,20715.0,38.0,99.25,2016-12-19,True
+EMP00344,28,F,Soltero,Doctorado,Marketing,43967.0,30.0,92.7,2017-09-17,True
+EMP00345,29,F,Casado,Maestría,Ventas,39467.0,40.0,54.0,2019-07-01,True
+EMP00346,37,F,Soltero,Secundaria,Ventas,46454.0,42.0,84.2,2023-01-21,True
+EMP00347,18,M,Soltero,Universitario,Recursos Humanos,41964.0,44.0,52.1,2025-04-04,True
+EMP00348,18,F,Divorciado,Universitario,TI,123952.0,54.0,62.36,2020-05-04,False
+EMP00349,26,F,Divorciado,Universitario,Finanzas,26400.0,36.0,8.91,2020-03-23,False
+EMP00350,32,M,Divorciado,Maestría,Recursos Humanos,27847.0,46.0,75.53,2016-01-31,True
+EMP00351,38,M,Casado,Maestría,Finanzas,132965.0,26.0,12.77,2019-12-02,True
+EMP00352,52,F,Divorciado,Maestría,TI,27508.0,55.0,82.61,2020-10-13,True
+EMP00353,45,F,Soltero,Universitario,Recursos Humanos,,39.0,78.2,2025-06-26,True
+EMP00354,33,F,Soltero,Universitario,TI,65808.0,34.0,70.87,2017-07-20,True
+EMP00355,34,M,Soltero,Secundaria,Operaciones,73884.0,37.0,3.62,2023-03-24,True
+EMP00356,22,F,Casado,Universitario,Recursos Humanos,27299.0,45.0,30.31,2020-09-17,False
+EMP00357,34,M,Casado,Universitario,TI,23952.0,34.0,26.31,2019-02-11,True
+EMP00358,31,M,Soltero,Maestría,TI,229840.0,39.0,36.01,2021-05-26,True
+EMP00359,38,M,Casado,Maestría,Ventas,27553.0,34.0,8.76,2025-03-18,True
+EMP00360,25,M,Divorciado,Secundaria,Recursos Humanos,49834.0,42.0,93.7,2018-12-30,True
+EMP00361,41,M,Casado,Universitario,Ventas,40193.0,32.0,55.38,2024-02-12,True
+EMP00362,53,M,Soltero,Universitario,Marketing,,45.0,30.55,2020-12-21,True
+EMP00363,33,M,Soltero,Universitario,TI,78727.0,43.0,39.7,2023-02-01,True
+EMP00364,39,M,Soltero,Maestría,Recursos Humanos,89137.0,44.0,44.72,2022-04-02,True
+EMP00365,43,F,Soltero,Secundaria,,26731.0,49.0,60.06,2017-07-21,True
+EMP00366,30,F,Casado,Universitario,Finanzas,29916.0,37.0,,2017-01-15,True
+EMP00367,37,M,Casado,Universitario,Finanzas,41895.0,31.0,91.94,2020-03-16,True
+EMP00368,35,F,Casado,Maestría,Ventas,42925.0,35.0,49.7,2024-06-20,True
+EMP00369,36,M,Casado,Universitario,Ventas,50476.0,37.0,99.22,2022-11-09,True
+EMP00370,25,F,Divorciado,Universitario,Recursos Humanos,99220.0,31.0,85.14,2016-09-15,True
+EMP00371,35,M,Soltero,Universitario,TI,33240.0,40.0,20.85,2020-04-05,True
+EMP00372,40,M,Casado,Maestría,TI,24363.0,41.0,93.06,2020-05-18,True
+EMP00373,52,F,Divorciado,Doctorado,Ventas,18221.0,57.0,11.64,2024-10-06,True
+EMP00374,46,F,Soltero,Universitario,TI,25198.0,43.0,81.74,2021-03-02,True
+EMP00375,60,F,Soltero,Maestría,Ventas,35718.0,45.0,38.06,2021-07-17,True
+EMP00376,25,F,Divorciado,Doctorado,Finanzas,89079.0,31.0,87.8,2020-11-25,True
+EMP00377,45,F,Soltero,Doctorado,Ventas,28034.0,45.0,86.81,2018-09-24,True
+EMP00378,37,M,Casado,Maestría,Marketing,40615.0,31.0,,2021-08-01,False
+EMP00379,61,M,Soltero,Maestría,,36018.0,45.0,,2016-08-31,True
+EMP00380,25,M,Casado,Universitario,Recursos Humanos,65788.0,37.0,30.47,2021-05-30,False
+EMP00381,24,M,Soltero,Maestría,TI,128471.0,47.0,8.09,2025-02-15,True
+EMP00382,27,F,Soltero,Universitario,Finanzas,27849.0,46.0,40.3,2016-02-04,True
+EMP00383,18,F,Casado,Maestría,Finanzas,28432.0,38.0,17.35,2024-04-09,False
+EMP00384,28,M,Soltero,Universitario,TI,61210.0,28.0,69.5,2022-11-12,True
+EMP00385,25,F,Casado,Maestría,Operaciones,255345.0,35.0,34.61,2022-02-22,True
+EMP00386,36,F,Soltero,Maestría,Operaciones,91432.0,45.0,97.56,2019-05-20,True
+EMP00387,39,M,Soltero,Secundaria,Finanzas,48628.0,53.0,64.1,2019-11-12,True
+EMP00388,57,M,Soltero,Maestría,Finanzas,30343.0,57.0,82.25,2022-03-10,True
+EMP00389,46,M,Soltero,Universitario,Ventas,48792.0,37.0,13.25,2021-04-24,True
+EMP00390,28,M,Divorciado,Maestría,,63218.0,34.0,86.2,2020-03-04,False
+EMP00391,24,M,Soltero,Universitario,Ventas,54734.0,42.0,92.28,2019-07-24,True
+EMP00392,40,F,Casado,Universitario,Ventas,46799.0,41.0,48.71,2018-06-19,False
+EMP00393,19,M,Soltero,Doctorado,Operaciones,61903.0,46.0,,2025-06-21,False
+EMP00394,56,M,Soltero,Universitario,TI,65163.0,38.0,76.48,2016-04-12,True
+EMP00395,49,Otro,Divorciado,Maestría,,,35.0,17.48,2019-03-04,True
+EMP00396,29,F,Soltero,Universitario,Finanzas,50229.0,51.0,50.26,2021-11-22,False
+EMP00397,18,F,Viudo,Universitario,Finanzas,,39.0,,2023-06-19,False
+EMP00398,51,M,Soltero,Universitario,Operaciones,39079.0,44.0,14.64,2021-09-13,True
+EMP00399,33,M,Casado,Universitario,Ventas,66386.0,32.0,36.75,2020-03-06,True
+EMP00400,49,F,Casado,Universitario,Ventas,24137.0,42.0,6.82,2023-02-08,True
+EMP00401,18,M,Divorciado,Secundaria,TI,43666.0,40.0,2.58,2021-06-27,True
+EMP00402,27,M,Casado,Universitario,Ventas,29831.0,40.0,13.52,2019-04-23,True
+EMP00403,35,F,Casado,Secundaria,Ventas,36841.0,29.0,96.31,2021-06-24,True
+EMP00404,35,F,Soltero,Doctorado,TI,68818.0,46.0,54.95,2021-08-19,True
+EMP00405,29,M,Soltero,Doctorado,Finanzas,39956.0,,96.58,2020-04-02,True
+EMP00406,42,F,Divorciado,Universitario,Marketing,37168.0,25.0,43.25,2022-05-20,True
+EMP00407,22,M,Soltero,Maestría,TI,18399.0,39.0,31.18,2023-09-19,True
+EMP00408,33,M,Casado,Universitario,Recursos Humanos,52739.0,48.0,50.61,2024-04-26,True
+EMP00409,36,M,Casado,Maestría,Ventas,50148.0,56.0,43.95,2021-07-12,True
+EMP00410,41,M,Soltero,Maestría,Ventas,107111.0,41.0,122.92776999429509,2023-10-26,True
+EMP00411,43,M,Viudo,Doctorado,Finanzas,31135.0,39.0,64.08,2016-08-20,True
+EMP00412,21,F,Casado,Universitario,Recursos Humanos,40520.0,28.0,21.6,2022-08-25,True
+EMP00413,18,F,Casado,Maestría,Finanzas,41138.0,45.0,61.96,2024-02-17,False
+EMP00414,50,F,Divorciado,Universitario,Ventas,79915.0,40.0,65.02,2022-07-01,True
+EMP00415,38,M,Soltero,Doctorado,Finanzas,34625.0,35.0,15.2,2022-12-18,True
+EMP00416,26,M,Soltero,Secundaria,Recursos Humanos,41752.0,43.0,6.13,2019-01-18,True
+EMP00417,53,M,Casado,Maestría,Marketing,49214.0,41.0,78.08,2020-06-30,False
+EMP00418,36,M,Soltero,Maestría,Recursos Humanos,39867.0,40.0,,2018-10-28,True
+EMP00419,49,M,Casado,Maestría,Finanzas,29050.0,51.0,5.82,2025-09-09,True
+EMP00420,35,F,Divorciado,Secundaria,Marketing,40016.0,42.0,99.49,2018-12-14,True
+EMP00421,59,F,Casado,Doctorado,Marketing,62119.0,37.0,5.78,2021-02-03,True
+EMP00422,56,F,Soltero,Universitario,Operaciones,21736.0,44.0,69.5,2025-06-26,True
+EMP00423,32,M,Viudo,Maestría,Finanzas,38812.0,39.0,98.37,2025-04-25,True
+EMP00424,46,F,Casado,Universitario,TI,25589.0,40.0,23.92,2017-11-13,True
+EMP00425,42,M,Casado,Universitario,Recursos Humanos,66007.0,31.0,,2017-05-24,True
+EMP00426,51,M,Casado,Universitario,TI,16956.0,38.0,12.14,2022-11-22,True
+EMP00427,23,M,Divorciado,Universitario,Ventas,27461.0,45.0,30.33,2017-12-22,True
+EMP00428,43,F,Casado,Universitario,Marketing,43853.0,38.0,10.1,2020-07-20,True
+EMP00429,47,Otro,Casado,Universitario,Operaciones,79440.0,41.0,69.22,2019-01-02,True
+EMP00430,18,M,Divorciado,Universitario,Operaciones,35141.0,46.0,6.23,2017-10-07,True
+EMP00431,20,F,Soltero,Maestría,TI,,41.0,50.94,2020-06-24,True
+EMP00432,18,F,Casado,Maestría,Marketing,,43.0,99.67,2021-10-03,True
+EMP00433,31,M,Divorciado,Secundaria,Ventas,17605.0,34.0,81.4,2023-11-25,True
+EMP00434,43,M,Casado,Universitario,Operaciones,12095.0,30.0,61.52,2016-09-28,False
+EMP00435,53,M,Casado,Secundaria,Operaciones,45252.0,34.0,30.63,2019-10-13,True
+EMP00436,35,Otro,Divorciado,Secundaria,Recursos Humanos,28253.0,23.0,62.39,2022-10-29,True
+EMP00437,54,M,Casado,Maestría,Finanzas,21793.0,48.0,52.7,2016-12-05,True
+EMP00438,18,F,Casado,Maestría,Recursos Humanos,51749.0,54.0,,2022-02-06,True
+EMP00439,18,M,Divorciado,Universitario,Marketing,205115.0,39.0,13.07,2025-08-01,True
+EMP00440,34,F,Divorciado,Universitario,Ventas,27390.0,40.0,88.66,2024-06-26,True
+EMP00441,39,M,Casado,Secundaria,Marketing,19145.0,36.0,44.98,2022-02-03,True
+EMP00442,34,F,Soltero,Maestría,Recursos Humanos,56175.0,49.0,19.46,2025-03-24,True
+EMP00443,18,F,Casado,Doctorado,Recursos Humanos,50266.0,46.0,36.78,2023-02-17,True
+EMP00444,33,F,Casado,Secundaria,TI,34558.0,40.0,41.41,2020-10-15,True
+EMP00445,19,F,Casado,Universitario,Operaciones,91429.0,42.0,82.75,2016-06-28,True
+EMP00446,43,M,Casado,Maestría,Ventas,21267.0,37.0,73.36,2016-08-19,True
+EMP00447,39,F,Casado,Doctorado,Marketing,16936.0,34.0,76.93,2024-07-31,True
+EMP00448,95,M,Casado,,Recursos Humanos,25694.0,40.0,1.1,2022-11-15,True
+EMP00449,28,M,Soltero,Secundaria,Recursos Humanos,35497.0,46.0,41.62,2020-04-09,False
+EMP00450,22,F,Casado,Secundaria,Recursos Humanos,41014.0,37.0,48.13,2017-05-09,False
+EMP00451,34,M,Casado,Universitario,TI,,45.0,1.92,2017-02-01,True
+EMP00452,46,F,Soltero,Universitario,Ventas,43305.0,41.0,25.98,2020-11-02,True
+EMP00453,23,Otro,Soltero,Secundaria,Recursos Humanos,19423.0,39.0,76.03,2022-12-22,True
+EMP00454,41,M,Casado,Universitario,Marketing,74748.0,32.0,,2023-09-28,True
+EMP00455,28,F,Casado,Secundaria,Ventas,34854.0,40.0,53.53,2024-12-22,True
+EMP00456,105,M,Soltero,,Recursos Humanos,63490.0,36.0,21.52,2021-12-23,True
+EMP00457,33,M,Viudo,Universitario,Marketing,215515.0,35.0,,2023-06-04,True
+EMP00458,22,M,Casado,Secundaria,Recursos Humanos,45632.0,34.0,24.12,2025-09-10,False
+EMP00459,28,F,Viudo,Universitario,Finanzas,48285.0,38.0,97.59,2021-05-12,True
+EMP00460,20,F,Casado,Universitario,,45426.0,37.0,80.15,2020-05-02,True
+EMP00461,58,F,Casado,Doctorado,Ventas,50079.0,47.0,95.96,2015-12-26,True
+EMP00462,35,Otro,Divorciado,Universitario,Finanzas,70585.0,37.0,48.79,2018-06-14,True
+EMP00463,26,M,Casado,Universitario,Recursos Humanos,40065.0,45.0,,2023-01-31,True
+EMP00464,37,M,Casado,Maestría,Recursos Humanos,51766.0,42.0,54.8,2017-03-30,True
+EMP00465,33,F,Soltero,Universitario,Finanzas,34722.0,29.0,45.44,2019-02-04,True
+EMP00466,32,F,Casado,Doctorado,Finanzas,74612.0,44.0,84.44,2023-06-12,True
+EMP00467,42,M,Soltero,Universitario,Operaciones,25894.0,46.0,9.81,2017-03-01,True
+EMP00468,44,M,Soltero,Universitario,Marketing,89363.0,54.0,48.82,2019-04-17,True
+EMP00469,28,F,Soltero,Secundaria,Marketing,35593.0,35.0,15.0,2024-03-27,True
+EMP00470,28,F,Soltero,Universitario,TI,17758.0,36.0,32.47,2024-02-06,True
+EMP00471,95,M,Viudo,,Ventas,38717.0,45.0,73.74,2019-12-06,True
+EMP00472,18,M,Soltero,Maestría,Marketing,25834.0,40.0,47.6,2019-06-11,True
+EMP00473,18,F,Casado,Universitario,TI,55288.0,37.0,37.59,2019-08-25,True
+EMP00474,51,F,Divorciado,Universitario,Operaciones,26204.0,47.0,39.45,2020-02-19,True
+EMP00475,54,M,Casado,Maestría,Marketing,29053.0,44.0,45.94,2023-11-26,True
+EMP00476,32,F,Soltero,Doctorado,,14118.0,51.0,78.5,2021-12-15,False
+EMP00477,41,M,Casado,Secundaria,TI,28965.0,44.0,89.21,2017-01-31,True
+EMP00478,38,M,Casado,Universitario,Ventas,10808.0,36.0,95.53,2016-12-03,True
+EMP00479,71,F,Casado,,Ventas,16449.0,34.0,78.69,2023-12-30,True
+EMP00480,48,F,Casado,Maestría,TI,53114.0,48.0,31.54,2025-10-05,False
+EMP00481,33,M,Viudo,Secundaria,Ventas,53793.0,44.0,68.81,2022-06-04,True
+EMP00482,23,F,Casado,Universitario,Recursos Humanos,44924.0,54.0,43.76,2020-09-13,True
+EMP00483,18,F,Soltero,Maestría,Finanzas,,38.0,,2018-08-24,True
+EMP00484,37,F,Casado,Secundaria,Finanzas,35459.0,46.0,,2025-10-18,True
+EMP00485,25,F,Soltero,Universitario,Recursos Humanos,36250.0,38.0,3.84,2023-07-29,True
+EMP00486,18,F,Divorciado,Universitario,Ventas,20349.0,47.0,90.18,2025-02-02,True
+EMP00487,27,F,Soltero,Universitario,Finanzas,385050.0,39.0,46.15,2020-01-30,True
+EMP00488,22,M,Soltero,Universitario,Finanzas,56313.0,44.0,63.72,2021-12-27,False
+EMP00489,55,M,Divorciado,Universitario,,32516.0,26.0,65.94,2023-07-29,True
+EMP00490,45,M,Casado,Universitario,Recursos Humanos,36806.0,44.0,,2021-03-09,True
+EMP00491,34,F,Casado,Universitario,TI,40303.0,33.0,63.67,2017-09-30,True
+EMP00492,52,F,Casado,Maestría,Finanzas,,41.0,61.39,2019-08-30,True
+EMP00493,35,M,Divorciado,Maestría,Operaciones,32093.0,32.0,,2021-09-15,True
+EMP00494,24,M,Soltero,Universitario,Ventas,25822.0,33.0,51.84,2018-10-19,True
+EMP00495,53,F,Divorciado,Secundaria,Finanzas,22008.0,36.0,15.02,2025-08-29,True
+EMP00496,41,M,Soltero,Universitario,Recursos Humanos,,43.0,73.74,2017-08-30,True
+EMP00497,22,F,Casado,Universitario,Operaciones,89218.0,35.0,124.53290288344895,2016-09-12,True
+EMP00498,32,M,Divorciado,Universitario,Marketing,50032.0,41.0,68.02,2017-08-17,True
+EMP00499,24,F,Soltero,Maestría,Finanzas,27293.0,50.0,147.40634289506485,2024-09-14,True
+EMP00500,18,F,Casado,Secundaria,Ventas,48353.0,43.0,8.48,2018-06-03,True
