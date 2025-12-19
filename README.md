@@ -35,7 +35,7 @@
 
 ### Opción 1: Script automático (Recomendado)
 
-**Linux/Mac:**
+**Linux:**
 ```bash
 chmod +x run_eda_panel.sh
 ./run_eda_panel.sh
@@ -82,7 +82,8 @@ python main.py
 
 ## 🛠️ Uso
 
-Luego de clonar el repositorio puede usar el scrip ejecutable, se incluye un dataset "generate_sample_data" para hacer pruebas.
+Luego de clonar el repositorio puede usar el scrip ejecutable correspondiente a su sistema operativo, run_eda_panel.sh para linux y run_eda_panel.bat para Windows.
+Se incluye un dataset "sample_data.CSV" para hacer pruebas, este archivo es genera por generate_sample_data.
 
 ---
 
